@@ -1,5 +1,5 @@
 Package: ralph
-Title: What the Package Does (One Line, Title Case)
+Title: Compute Tidy Correlations
 Version: 0.0.0.9000
 Authors@R: 
     person("Shafayet Khan", "Shafee", , "shafayetshafee@gmail.com", 
