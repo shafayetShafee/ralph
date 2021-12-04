@@ -5,10 +5,14 @@ Authors@R:
     person("Shafayet Khan", "Shafee", , "shafayetshafee@gmail.com", 
     role = c("aut", "cre"))
 Description: Nothing just testing.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
 URL: https://github.com/shafayetShafee/ralph
 BugReports: https://github.com/shafayetShafee/ralph/issues
+Imports: 
+    broom,
+    dplyr,
+    magrittr,
+    rlang
