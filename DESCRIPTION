@@ -14,7 +14,9 @@ BugReports: https://github.com/shafayetShafee/ralph/issues
 Imports: 
     broom,
     dplyr,
+    glue,
     magrittr,
+    purrr,
     rlang,
     usethis
 Suggests: 
